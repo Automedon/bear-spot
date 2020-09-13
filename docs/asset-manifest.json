@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/bear-spot/static/css/main.efca4455.chunk.css",
+    "main.js": "/bear-spot/static/js/main.5900a596.chunk.js",
+    "main.js.map": "/bear-spot/static/js/main.5900a596.chunk.js.map",
+    "runtime-main.js": "/bear-spot/static/js/runtime-main.7de39d72.js",
+    "runtime-main.js.map": "/bear-spot/static/js/runtime-main.7de39d72.js.map",
+    "static/css/2.68584d97.chunk.css": "/bear-spot/static/css/2.68584d97.chunk.css",
+    "static/js/2.80188771.chunk.js": "/bear-spot/static/js/2.80188771.chunk.js",
+    "static/js/2.80188771.chunk.js.map": "/bear-spot/static/js/2.80188771.chunk.js.map",
+    "index.html": "/bear-spot/index.html",
+    "precache-manifest.2dcdc08fb1e787f23d10ffacb5203635.js": "/bear-spot/precache-manifest.2dcdc08fb1e787f23d10ffacb5203635.js",
+    "service-worker.js": "/bear-spot/service-worker.js",
+    "static/css/2.68584d97.chunk.css.map": "/bear-spot/static/css/2.68584d97.chunk.css.map",
+    "static/css/main.efca4455.chunk.css.map": "/bear-spot/static/css/main.efca4455.chunk.css.map",
+    "static/js/2.80188771.chunk.js.LICENSE.txt": "/bear-spot/static/js/2.80188771.chunk.js.LICENSE.txt",
+    "static/media/bear.svg": "/bear-spot/static/media/bear.c95b7520.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7de39d72.js",
+    "static/css/2.68584d97.chunk.css",
+    "static/js/2.80188771.chunk.js",
+    "static/css/main.efca4455.chunk.css",
+    "static/js/main.5900a596.chunk.js"
+  ]
+}
