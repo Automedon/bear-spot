@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5d4a7b30ff8c17460b2c458488669247",
+    "revision": "d363e14438e071bbefdbd5be02ba113f",
     "url": "/bear-spot/index.html"
   },
   {
-    "revision": "b08627a6d59a1a4eb1b5",
+    "revision": "e46b79ace9de35f13c2c",
     "url": "/bear-spot/static/css/2.68584d97.chunk.css"
   },
   {
-    "revision": "76d096f7814202283167",
+    "revision": "5fe805cbf7319d16d346",
     "url": "/bear-spot/static/css/main.efca4455.chunk.css"
   },
   {
-    "revision": "b08627a6d59a1a4eb1b5",
-    "url": "/bear-spot/static/js/2.80188771.chunk.js"
+    "revision": "e46b79ace9de35f13c2c",
+    "url": "/bear-spot/static/js/2.75422c58.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/bear-spot/static/js/2.80188771.chunk.js.LICENSE.txt"
+    "url": "/bear-spot/static/js/2.75422c58.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "76d096f7814202283167",
-    "url": "/bear-spot/static/js/main.5900a596.chunk.js"
+    "revision": "5fe805cbf7319d16d346",
+    "url": "/bear-spot/static/js/main.55e62bcb.chunk.js"
   },
   {
     "revision": "8d9a97a2fb67614e4b78",

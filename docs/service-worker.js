@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/bear-spot/precache-manifest.2dcdc08fb1e787f23d10ffacb5203635.js"
+  "/bear-spot/precache-manifest.28a7e444b71841d39b6991f371c73c49.js"
 );
 
 self.addEventListener('message', (event) => {

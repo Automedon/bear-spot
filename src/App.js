@@ -63,7 +63,7 @@ function App() {
             key={time.toISOString()}
             position={{ lat, lng }}
             icon={{
-              url: "/bear.svg",
+              url: bear,
               scaledSize: new window.google.maps.Size(30, 30),
               origin: new window.google.maps.Point(0, 0),
               anchor: new window.google.maps.Point(15, 15),
